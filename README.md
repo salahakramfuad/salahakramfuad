@@ -17,7 +17,7 @@ My current focus is on **Next.js**, **React**, and **database systems**, through
 ---
 
 ## 📈 GitHub Insights
-![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahakramfuad&show_icons=true&theme=dracula&hide_border=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=salahakramfuad&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 
 ---
