@@ -1,24 +1,33 @@
-# Hi, I’m Fuad
+# 👋 Hi, I’m Fuad
 
-CSE student at **BRAC University** (graduating **Dec 2025**).  
-Learning **Next.js**, **React**, and **databases** while building:
-- School Management System
-- Library Management System
-- Bengali TTS
+I’m a **Computer Science graduate from BRAC University**, passionate about modern web development and clean software architecture.  
+My current focus is on **Next.js**, **React**, and **database systems**, through hands-on project development such as:
 
-## Tech
-JavaScript · TypeScript · React · Next.js · HTML · CSS · Tailwind CSS · Material UI · Python
+- 🏫 School Management System  
+- 📚 Library Management System  
+- 🗣️ Bengali Text-to-Speech (TTS)
 
-## GitHub Stats
-![Fuad's GitHub stats](https://github-readme-stats.vercel.app/api?username=salahakramfuad&show_icons=true&theme=dracula&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=salahakramfuad&layout=compact&langs_count=6&theme=dracula&hide_border=true)
+---
 
-## Contact
-- Email: [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)
-- LinkedIn: [/in/salahakramfuad](https://www.linkedin.com/in/salahakramfuad/)
-- WhatsApp: [Chat](https://wa.me/8801775067870)
-- Facebook: [/salehakramfuad](https://www.facebook.com/salehakramfuad/)
+## 🛠️ Tech Stack
+**Languages:** JavaScript · TypeScript · Python  
+**Frontend:** React · Next.js · Tailwind CSS · Material UI · HTML · CSS  
+**Tools & Interests:** REST APIs · Database Design · UI/UX Development
 
-<!-- Optional: Snake animation (comment out if you want it even simpler)
-<img src="https://raw.githubusercontent.com/salahakramfuad/salahakramfuad/output/snake.svg" alt="Snake animation" />
--->
+---
+
+## 📈 GitHub Insights
+![Fuad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=salahakramfuad&show_icons=true&theme=dracula&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=salahakramfuad&layout=compact&langs_count=6&theme=dracula&hide_border=true)
+
+---
+
+## 📫 Connect with Me
+- **Email:** [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/salahakramfuad](https://www.linkedin.com/in/salahakramfuad/)  
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801775067870)  
+- **Facebook:** [facebook.com/salehakramfuad](https://www.facebook.com/salehakramfuad/)
+
+---
+
+_“Building practical solutions through code and curiosity.”_
