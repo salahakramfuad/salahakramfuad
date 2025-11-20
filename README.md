@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Fuad
+# Hi, I’m Mohammad Salah Akram Fuad
 
 I’m a **Computer Science graduate from BRAC University**, passionate about modern web development and clean software architecture.  
 My current focus is on **Next.js**, **React**, and **database systems**, through hands-on project development such as:
