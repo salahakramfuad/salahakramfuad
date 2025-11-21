@@ -3,7 +3,8 @@
 I’m a **Computer Science graduate from BRAC University**, passionate about modern web development and clean software architecture.  
 My current focus is on **Next.js**, **React**, and **database systems**, through hands-on project development such as:
 
-- School Management System  
+- School Management System
+- Hope TTC
 - Library Management System  
 - Bengali Text-to-Speech (TTS)
 
