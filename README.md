@@ -7,13 +7,13 @@ My current focus is on **Next.js**, **React**, and **database systems**, through
 - Hope TTC
 - Library Management System  
 - Bengali Text-to-Speech (TTS)
-
 ---
 
 ## 🛠️ Tech Stack
 **Languages:** JavaScript · TypeScript · Python  
-**Frontend:** React · Next.js · Tailwind CSS · Material UI · HTML · CSS  
-**Tools & Interests:** REST APIs · Database Design · UI/UX Development
+**Frontend:** React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS 
+**Backend** Firebase
+**Tools & Interests:** REST APIs · Database Design
 
 ---
 
