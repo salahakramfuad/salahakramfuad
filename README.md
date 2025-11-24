@@ -33,10 +33,10 @@ JavaScript · TypeScript · Python
 React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS  
 
 **Backend:**  
-Firebase  
+Firebase , Relational Database
 
 **Tools & Interests:**  
-REST APIs · Database Design  
+REST APIs · Database Design 
 
 ---
 
