@@ -3,7 +3,6 @@
 ### Computer Science Graduate · BRAC University  
 **Focused on Next.js, React & Modern Web Development**
 
----
 
 ## 📫 Contact
 - **Email:** [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)  
@@ -11,7 +10,7 @@
 - **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801775067870)  
 - **Facebook:** [facebook.com/salehakramfuad](https://www.facebook.com/salehakramfuad/)
 
----
+
 
 ## 👋 About Me
 I’m a **Computer Science graduate from BRAC University**, passionate about intuitive UI, efficient backend systems, and clean software architecture.  
