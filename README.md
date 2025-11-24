@@ -1,4 +1,4 @@
-# 📌 Mohammad Salah Akram Fuad
+# Mohammad Salah Akram Fuad
 
 ### Computer Science Graduate · BRAC University  
 **Focused on Next.js, React & Modern Web Development**
