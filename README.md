@@ -20,7 +20,7 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 - School Management System  
 - Hope TTC  
 - Library Management System  
-- Bengali Text-to-Speech (TTS)  
+
 
 ---
 
