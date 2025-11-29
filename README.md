@@ -24,7 +24,7 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 JavaScript · TypeScript · Python  
