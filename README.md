@@ -19,7 +19,8 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 **Projects I’ve Worked On:**
 - School Management System  
 - Hope TTC  
-- Library Management System  
+- Library Management System
+- Portfolio
 
 
 ---
