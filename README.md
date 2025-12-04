@@ -45,6 +45,3 @@ REST APIs · Database Design
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=salahakramfuad&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 
----
-
-_“Building practical solutions through code and curiosity.”_
