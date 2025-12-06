@@ -39,9 +39,7 @@ Firebase , Relational Database
 **Tools & Interests:**  
 REST APIs · Database Design 
 
----
 
-## 📈 GitHub Insights
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=salahakramfuad&layout=compact&langs_count=6&theme=dracula&hide_border=true)
 
