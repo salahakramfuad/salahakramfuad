@@ -37,7 +37,7 @@ React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS
 Firebase , Relational Database
 
 **Tools & Interests:**  
-REST APIs · Database Design _
+REST APIs · Database Design
 
 
 
