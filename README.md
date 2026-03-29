@@ -17,9 +17,10 @@ I’m a **Computer Science graduate from BRAC University**, passionate about int
 I focus on building production-ready applications using **Next.js**, **React**, and structured **database systems**.
 
 **Projects I’ve Worked On:**
-- School Management System  
-- Event Management System
-- Portfolio
+- https://www.robonautsltd.com/
+- https://www.hopettc.com/
+- https://spotfinderce.com/ (Web + Native App)
+- https://ihsb-events.vercel.app/ (Working on it)
 
 
 ---
