@@ -41,5 +41,3 @@ REST APIs · Database Design
 
 
 
-Smile if you feel cold today!
-
