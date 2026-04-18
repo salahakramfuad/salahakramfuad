@@ -4,14 +4,6 @@
 **Focused on Next.js, React & Modern Web Development**
 
 
-## 📫 Contact
-- **Email:** [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/salahakramfuad](https://www.linkedin.com/in/salahakramfuad/)  
-- **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801775067870)  
-- **Facebook:** [facebook.com/salehakramfuad](https://www.facebook.com/salehakramfuad/)
-
-
-
 ## About Me
 I’m a **Computer Science graduate from BRAC University**, passionate about intuitive UI, efficient backend systems, and clean software architecture.  
 I focus on building production-ready applications using **Next.js**, **React**, and structured **database systems**.
@@ -24,6 +16,14 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 
 
 ---
+
+## 📫 Contact
+- **Email:** [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/salahakramfuad](https://www.linkedin.com/in/salahakramfuad/)  
+- **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801775067870)  
+- **Facebook:** [facebook.com/salehakramfuad](https://www.facebook.com/salehakramfuad/)
+
+
 
 ## Tech Stack
 
