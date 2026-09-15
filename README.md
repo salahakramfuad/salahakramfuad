@@ -24,19 +24,7 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 
 
 
-## Tech Stack
 
-**Languages:**  
-JavaScript · TypeScript · Python  
-
-**Frontend:**  
-React · Next.js · Tailwind CSS · Material UI · HTML5 · CSS  
-
-**Backend:**  
-Firebase , Relational Database
-
-**Tools & Interests:**  
-REST APIs · Database Design
 
 
 
