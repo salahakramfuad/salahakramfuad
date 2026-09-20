@@ -16,7 +16,7 @@ I focus on building production-ready applications using **Next.js**, **React**, 
 
 ---
 
-## 📫 Contact
+## Contact
 - **Email:** [salahakramfuad@gmail.com](mailto:salahakramfuad@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/salahakramfuad](https://www.linkedin.com/in/salahakramfuad/)  
 - **WhatsApp:** [Chat on WhatsApp](https://wa.me/8801775067870)  
