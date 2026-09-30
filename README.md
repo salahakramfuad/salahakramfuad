@@ -2,8 +2,6 @@
 
 ### Computer Science Graduate · BRAC University  
 
-
-## About Me
 I’m a **Computer Science graduate from BRAC University**, passionate about intuitive UI, efficient backend systems, and clean software architecture.  
 I focus on building production-ready applications using **Next.js**, **React**, and structured **database systems**.
 
